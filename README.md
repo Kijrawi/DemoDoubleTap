@@ -30,7 +30,7 @@ compile 'com.thestarclubz:doubletap:0.9.3'
 **LICENSE**
 
 
-    Copyright 2014 thestarclubz
+    Copyright 2016 thestarclubz
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
