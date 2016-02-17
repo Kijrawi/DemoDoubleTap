@@ -1,13 +1,13 @@
-USAGE
+![alt tag](https://cloud.githubusercontent.com/assets/4988279/13100167/9070909a-d56c-11e5-80e4-e9aa36008ab5.gif)
 
--Add dependencies for doubletap
+**USAGE**
+- Add dependencies for doubletap
+```
+compile 'com.thestarclubz:doubletap:0.9.3'
+```
 
-   compile 'com.thestarclubz:doubletap:0.9.3'
-   
-
-CODE EXAMPLE
-
-
+**CODE EXAMPLE**
+```
    button.setOnTouchListener(new OnDoubleTapListener(context) {
   
               @Override
@@ -20,13 +20,14 @@ CODE EXAMPLE
                   // Single here
               }
           });
+```
 
-
-DEVELOP BY
-
+**DEVELOP BY**
+```
    party -- thestarclub.party@gmail.com
+```
 
-LICENSE
+**LICENSE**
 
 
     Copyright 2014 Leo Lin
